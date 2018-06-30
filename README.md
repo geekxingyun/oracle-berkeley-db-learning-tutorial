@@ -17,3 +17,5 @@ BDB 的全称是Berkeley Database,是一种开源的嵌入式文本数据库。
 - 支持RAM缓冲以减少频繁IO操作
 
 当然它的强大不止于此，它甚至可以将对象直接存储到文件，并且建立一个一级索引和多个二级索引，根据我的理解，它在某种意义上应该也可以说是基于对象存储的一个数据库系统。
+
+更多相关介绍请移步[我的专栏————Oracle-Berkeley-DB-Java-Edition](https://blog.csdn.net/column/details/24213.html)
