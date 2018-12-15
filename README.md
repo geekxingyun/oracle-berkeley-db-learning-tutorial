@@ -21,3 +21,7 @@ BDB 的全称是Berkeley Database,是一种开源的嵌入式文本数据库。
 快速学习实战源码：[Oracle-Berkeley-DB-Java-Edition/BDB_0x01_Hello_World_Sample/](https://github.com/geekxingyun/Oracle-Berkeley-DB-Java-Edition/tree/master/BDB_0x01_Hello_World_Sample)
 
 更多相关介绍请移步：[我的专栏————Oracle-Berkeley-DB-Java-Edition](https://blog.csdn.net/column/details/24213.html)
+
+<img src="aliPay.png" alt="支付宝" title="支付宝二维码" height="100%" width="100%">
+
+<img src="webchat.png" alt="微信" title="微信二维码" height="100%" width="100%">
