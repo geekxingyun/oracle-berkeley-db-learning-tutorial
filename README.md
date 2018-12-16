@@ -22,9 +22,27 @@ BDB 的全称是Berkeley Database,是一种开源的嵌入式文本数据库。
 
 更多相关介绍请移步：[我的专栏————Oracle-Berkeley-DB-Java-Edition](https://blog.csdn.net/column/details/24213.html)
 
-## 感谢赞赏，微信二维码
+# 关于我
 
+```
+星云个人主页: http://www.520geek.cn/about/
+
+星云CSDN博客：https://blog.csdn.net/hadues
+
+星云博客园：http://www.cnblogs.com/xingyunblog
+
+星云阿里云栖博客：https://yq.aliyun.com/u/xingyunsky
+
+星云GitHub: https://github.com/geekxingyun
+
+星云微博：https://weibo.com/xingyunsky
+
+联系方式：fairy_xingyun@hotmail.com   
+
+```
+> 交流即分享，分享才能进步！不对之处，还请各位前辈多多指教。  by 星云
+
+<h2>感谢赞赏，微信二维码</h2>
 <p><img src="https://img2018.cnblogs.com/blog/622489/201812/622489-20181215164147325-217176189.png" alt="" width="303" height="282"></p>
-
-## 感谢赞赏，支付宝二维码
+<h2>感谢赞赏，支付宝二维码</h2>
 <p><img src="https://img2018.cnblogs.com/blog/622489/201812/622489-20181215164420863-364321980.png" alt="" width="297" height="303"></p>
