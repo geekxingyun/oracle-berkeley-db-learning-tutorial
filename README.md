@@ -31,7 +31,7 @@ BDB 的全称是Berkeley Database,是一种开源的嵌入式文本数据库。
 
 [0x01 Berkeley DB XML介绍之概览](https://blog.csdn.net/hadues/article/details/87363524)
 
-
+[关于如何创建一个环境，创建一个容器，并添加数据的方法参考案例源码](https://github.com/geekxingyun/Oracle-Berkeley-DB/tree/master/berkeleydbxmlsample)
 
 # 关于我
 
