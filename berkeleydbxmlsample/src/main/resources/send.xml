@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Node0>
+	<Node1 class="myValue1">Node1 text </Node1>
+	<Node2>
+		<Node3>Node3 text</Node3>
+		<Node3>Node3 text 2</Node3>
+		<Node3>Node3 text 3</Node3>
+		<Node4>300</Node4>
+	</Node2>
+</Node0>

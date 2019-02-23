@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MSG xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.travelsky.com/2006/dcsi">
+	<!-- META 部分-->
+	<!--
+	META:元素的开始
+	SENDER:消息发送者代码
+	SEQS:由发送者定义的序号
+	DTTM:消息发送的时间。AMB服务器的系统时间
+	TYPE:所发送的消息类型
+	STYP:所发送的消息子类型
+	-->
+	<META>
+		<SNDR>BCS</SNDR>
+		<SEQN>999</SEQN>
+		<DTTM>20110901095500</DTTM>
+		<TYPE>PNOP</TYPE>
+		<STYP>POIF</STYP>
+	</META>
+	
+	<!-- 消息主体 -->
+	<!--
+	PNOP:旅客元素开始
+	FFID:航班标识
+	BRDNO:旅客登机号
+    SEAT:座位号信息
+    DEPT:始发站3字代码
+    CHNNAME:中文姓名
+    NAME:英文姓名
+    PSRIMG:旅客照片,采用base64编码
+	-->	
+	<PNOP>
+	    <FFID>CA123-24MAR06</FFID>		
+		<BRDNO>23</BRDNO>			
+		<SEAT>35L</SEAT>
+		<DEPT>PEK</DEPT>
+		<CHNNAME>姚明</CHNNAME>
+		<NAME>YAOMING</NAME>
+		<PSRIMG>,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAYBAMAAABw9gyhAAAAG1BMVEUAAAD2Pz/2Pz/2Pz/2Pz/2Pz/2Pz/2Pz/2Pz99CmlVAAAACHRSTlMAiMIL3bVODFcJC4UAAABpSURBVCjPjcyxDYAgAABBEidwBgstjYkb6B66ATNQMTblEyB5vv5cqLqfpjeGYcuR2/bxeeWudApJm5KgSoI6CeokqJOgToJCGgopKKShkIJCGgopKKShkIZCKgppKKSikIZCOvqvc30FXztXJKlgs4wAAAAASUVORK5CYII=</PSRIMG>
+	</PNOP>
+</MSG>

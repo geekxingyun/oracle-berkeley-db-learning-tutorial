@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="berkeleydbxmlsample">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/lib/db.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/lib/dbxml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/lib/dbxmlexamples.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
