@@ -22,6 +22,16 @@ BDB 的全称是Berkeley Database,是一种开源的嵌入式文本数据库。
 
 更多相关介绍请移步：[我的专栏————Oracle-Berkeley-DB-Java-Edition](https://blog.csdn.net/column/details/24213.html)
 
+# Oracle-Berkeley-DB-XML-Edition
+
+- Berkeley DB XML(BDB XMl)是一个专门设计用来保存和恢复XML格式文档的嵌入式数据库。
+- BDB XML构建于Berkeley DB之上，可使用XQuery对数百万个XML文档进行高效查询。
+- XQuery是一种查询语言，用于检查和检索XML文档的各个部分。
+
+[0x01 Berkeley DB XML介绍之概览](https://blog.csdn.net/hadues/article/details/87363524)
+
+
+
 # 关于我
 
 ```
